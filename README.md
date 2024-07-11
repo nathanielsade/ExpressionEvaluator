@@ -49,10 +49,6 @@ This project is an implementation of an expression calculator in Java. It suppor
 
 </details>
 
-## Simulation
-
-![Simulation](./path/to/2024-07-11170039-ezgif.com-optimize.gif)
-![Simulation](./path/to/2024-07-11171415-ezgif.com-optimize.gif)
 
 ## Dependencies
 
