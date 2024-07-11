@@ -1,4 +1,4 @@
-#Expression Calculator
+# Expression Calculator
 
 This project is an implementation of an expression calculator in Java. It supports various mathematical operations such as addition, multiplication, division, logarithms, trigonometric functions, and more. The calculator can differentiate and simplify expressions and evaluate them with given variable assignments.
 
